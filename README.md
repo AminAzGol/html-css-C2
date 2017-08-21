@@ -21,6 +21,8 @@ html toturial class 2
 
 ![attribute](https://mdn.mozillademos.org/files/9345/grumpy-cat-attribute-small.png)
 
+* check homeworks
+
 ## github pull request 
 
 * fork
