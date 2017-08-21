@@ -28,3 +28,10 @@ html toturial class 2
 * folder
 
 * pull request 
+
+## homeWorks
+
+* read W3Scools from style to class except Html css
+
+* built a better template 
+
